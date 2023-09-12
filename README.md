@@ -9,7 +9,7 @@
 1. Склонировать репозиторий
 
     ```bash
-    git clone ssh://git@gitlab.ulinad.space:2224/danilu/lesson-git.git
+    git clone ssh://git@gitlab.ulinad.com/molzybeee/q.git/
     ```
 2. Открыть `.sln` файл в *Visual Studio*
 
